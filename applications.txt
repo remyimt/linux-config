@@ -1,0 +1,22 @@
+chromium - ublock origin
+discord
+docker
+gnome-todo
+firefox - downloadhelper
+firefox - ublock origin
+gimp
+git
+gparted
+libreoffice writer
+libreoffice calc
+mariadb-client
+maven
+openjdk
+slack
+terminator
+thunderbird
+timetracker
+vlc
+vscode
+wireguard
+yed
